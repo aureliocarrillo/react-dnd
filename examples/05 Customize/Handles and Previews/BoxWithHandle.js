@@ -12,7 +12,7 @@ const style = {
 }
 
 const handleStyle = {
-	backgroundColor: 'green',
+	backgroundColor: 'blue',
 	width: '1rem',
 	height: '1rem',
 	display: 'inline-block',
